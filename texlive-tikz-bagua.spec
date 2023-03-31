@@ -1,6 +1,6 @@
 Name:		texlive-tikz-bagua
 Version:	64103
-Release:	1
+Release:	2
 Summary:	Draw Bagua symbols in Yijing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-bagua
