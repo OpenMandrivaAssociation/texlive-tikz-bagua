@@ -3,7 +3,7 @@ Version:	64103
 Release:	2
 Summary:	Draw Bagua symbols in Yijing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-bagua
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-bagua
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-bagua.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-bagua.doc.r%{version}.tar.xz
